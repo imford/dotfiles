@@ -87,6 +87,5 @@ set showmatch
 "*********************PLUGIN CONFIGURATION*****************
 
 
-
-
+execute pathogen#infect()
 
