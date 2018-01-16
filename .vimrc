@@ -1,4 +1,6 @@
 "**********************BASIC CONFIGURATION***********************
+execute pathogen#infect()
+
 
 "colorscheme twilight 
 
@@ -87,5 +89,4 @@ set showmatch
 "*********************PLUGIN CONFIGURATION*****************
 
 
-execute pathogen#infect()
 
